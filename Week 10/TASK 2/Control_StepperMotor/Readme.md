@@ -6,5 +6,5 @@ This project is awesome!
 
 Here is a demo of our project:
 
-[![Thumbnail](https://example.com/thumbnail.jpg)](https://www.youtube.com/watch?v=WGWzfyeZ8IE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-HaRdMYHzsw/0.jpg)](https://www.youtube.com/watch?v=-HaRdMYHzsw)
 
